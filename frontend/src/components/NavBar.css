@@ -1,8 +1,10 @@
 nav {
+    display: flex;
     background-color: #61dafb;
 }
 
 li {
     list-style: none;
     padding: 20px;
+    cursor: pointer;
 }
