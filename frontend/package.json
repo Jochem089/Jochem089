@@ -4,13 +4,18 @@
   "private": true,
   "homepage": "https://jochem089.github.io/Jochem089",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.23.1",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.7",
+    "@mui/styled-engine-sc": "^7.3.7",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.3.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0",
+    "tailwindcss": "^4.1.18"
   }
 }
